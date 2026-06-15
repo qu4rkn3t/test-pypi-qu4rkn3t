@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "example-package"
+name = "test-pypi-qu4rkn3t-2026"
 version = "0.1.0"
 description = "A simple example Python package"
 readme = "README.md"

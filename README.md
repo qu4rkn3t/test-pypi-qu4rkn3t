@@ -5,7 +5,7 @@ A simple example Python package for demonstrating PyPI publishing with GitHub Ac
 ## Installation
 
 ```bash
-pip install example-package
+pip install test-pypi-qu4rkn3t-2026
 ```
 
 ## Usage
